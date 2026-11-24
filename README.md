@@ -1,5 +1,9 @@
 # makefun-meme-feed
 
+[![make.fun · u-myronera-post-the-meme-win-the-feed-2de960bf](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf?utm_source=github&utm_medium=readme&utm_campaign=u-myronera-post-the-meme-win-the-feed-2de960bf)
+[![rank](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/mbelsbrow/makefun-meme-feed/rank.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-myronera-post-the-meme-win-the-feed-2de960bf)
+[![reward](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/mbelsbrow/makefun-meme-feed/reward.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf?utm_source=github&utm_medium=readme&utm_campaign=u-myronera-post-the-meme-win-the-feed-2de960bf)
+
 Entry for the make.fun bounty **"Post the Meme, Win the Feed"**
 (`u-myronera-post-the-meme-win-the-feed-2de960bf`).
 
